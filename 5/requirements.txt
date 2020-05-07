@@ -5,4 +5,4 @@ scikit-image
 pillow
 seaborn
 jupyter
-
+git+https://github.com/hacarus/spm-image@development
